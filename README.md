@@ -1,5 +1,8 @@
 # sql-injection
 
+* this tool for search sql-injection
+* easy for use 
+
 # Usege
 
 ```
