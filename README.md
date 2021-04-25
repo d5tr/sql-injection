@@ -6,7 +6,7 @@
 * you can search in google dork
 * Enjoy ...
 
-![sql-injection](https://imgflip.com/gif/571ss8)
+![sql-injection](https://github.com/d5tr/sql-injection/blob/main/571ss8.gif)
 
 # Usege
 
