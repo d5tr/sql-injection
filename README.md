@@ -6,6 +6,9 @@
 # Usege
 
 ```
+$ git clone https://github.com/d5tr/sql-injection.git
+```
+```
 $ sudo chmod +x download_sql.sh
 ```
 ```
