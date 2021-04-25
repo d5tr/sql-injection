@@ -2,6 +2,9 @@
 
 * this tool for search sql-injection
 * easy for use 
+* you can use list url 
+* you can search in google dork
+* Enjoy ...
 
 # Usege
 
