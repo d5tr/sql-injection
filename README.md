@@ -17,10 +17,13 @@ $ git clone https://github.com/d5tr/sql-injection.git
 $ sudo chmod +x download_sql.sh
 ```
 ```
+$ cd sql-injection
+```
+```
 $ ./download_sql.sh
 ```
 ```
-python3 sql-injection.py -h
+$ python3 sql-injection.py -h
 ```
 
 # follow me
