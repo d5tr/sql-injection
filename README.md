@@ -20,6 +20,9 @@ $ sudo chmod +x download_sql.sh
 $ cd sql-injection
 ```
 ```
+$ chmod +x download_sql.sh
+```
+```
 $ ./download_sql.sh
 ```
 ```
